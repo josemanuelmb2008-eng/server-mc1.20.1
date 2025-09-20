@@ -1,0 +1,75 @@
+{
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "dev:pack": {
+    "criteria": {
+      "trigger": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_the_slanted_recipe": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_light_gray_recipe": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "global:genmode": {
+    "criteria": {
+      "trigger": "2025-09-20 04:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-09-20 04:55:41 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

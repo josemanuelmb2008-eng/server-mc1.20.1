@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ebe3bb7a6cf63343b80cdd80a824b6f7"
+	name: "Jose_2008_gt#ebe3bb7a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
